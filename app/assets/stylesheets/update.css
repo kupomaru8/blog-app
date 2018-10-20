@@ -1,0 +1,14 @@
+.more_list1 {
+  float: left;
+  color: white;
+  margin-left: 10px;
+}
+.more_list1 a{
+  color: white;
+}
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
